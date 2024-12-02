@@ -1,0 +1,7 @@
+Reading config file C:\Source\Demo\snesaldo\snes9x.conf.
+Saving	config file	C:\Source\Demo\snesaldo\snes9x.conf
+Found ROM file header (and ignored it).
+Map_LoROMMap
+"APPLE SEED" [checksum ok] LoROM, 16Mbits, ROM, NTSC, SRAM:0Kbits, ID:____, CRC32:C0E62C02
+Saving	config file	C:\Source\Demo\snesaldo\snes9x.conf
+Saving	config file	C:\Source\Demo\snesaldo\snes9x.conf
